@@ -66,3 +66,9 @@ To hit safer with this Script, you can install a RAM-Blocker (not pre-installed,
 NEVER hit official services or websites with this tool without his owner rights, it can be dangerous for all and trackable for you.
 This tool is not maked for attacking, just to get informations of hard-hacking-szenarios and test your logs and servers, how to track evil and dangerous pentests / attacks
 #################
+
+#################
+FIRST OF ALL
+
+You need to unzip the file in your choosing directory, or open Linux-terminal, navigate to "BashScripting" dir an type "unzip scripting.zip" to extract all needed files and folders.
+#################
